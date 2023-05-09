@@ -1,9 +1,9 @@
 function doSomething() {
-  log("hello world!");
+  my_log("hello world!");
 }
 
 doSomething();
 
-function log(s) {
+function my_log(s) {
   console.log(s);
 }
