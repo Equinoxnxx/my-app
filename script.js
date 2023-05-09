@@ -8,3 +8,5 @@ doSomething();
 function LOG(s) {
   console.log(s);
 }
+
+console.log("hello there!");
